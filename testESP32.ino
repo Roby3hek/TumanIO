@@ -17,8 +17,8 @@
 
 // ========================= КОНСТАНТЫ И НАСТРОЙКИ =========================
 // WiFi настройки
-const char* WIFI_SSID = "HUAWEI-1FR6UW";
-const char* WIFI_PASS = "19072004";
+const char* WIFI_SSID = "";
+const char* WIFI_PASS = "";
 
 // Telegram бот владельца
 #define BOT_TOKEN ""
