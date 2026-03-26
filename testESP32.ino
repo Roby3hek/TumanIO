@@ -21,8 +21,8 @@ const char* WIFI_SSID = "HUAWEI-1FR6UW";
 const char* WIFI_PASS = "19072004";
 
 // Telegram бот владельца
-#define BOT_TOKEN "8599686934:AAH5QFfn3jSbYRq7XBi99JfnBoQak_fvksA"
-#define ADMIN_ID 674627749
+#define BOT_TOKEN ""
+#define ADMIN_ID 
 
 // Конфигурация пинов ESP32
 // Реле (6 каналов)
